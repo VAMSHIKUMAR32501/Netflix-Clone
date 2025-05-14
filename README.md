@@ -1,1 +1,1 @@
-
+I developed a Netflix Clone project using Python and Django. The project replicates the core features of the Netflix platform, such as user registration, login, content display, and streaming simulation. It uses Python for backend logic and SQLite for data storage. This project helped me gain hands-on experience with Python web development, working with server-side logic, templates, and media file management.
